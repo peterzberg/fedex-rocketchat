@@ -1,0 +1,5 @@
+/data/
+/teamcity/
+/teamcity-agent/
+/uploads/
+*.DS_Store
